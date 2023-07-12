@@ -2,10 +2,10 @@
 
 
 ```bash
-# Clone o repositório
+# Clone the repository
 $ git clone https://github.com/mar1nho/keylogger/
 
-# Acesse-o
+# Acess it
 $ cd keylogger
 ```
 

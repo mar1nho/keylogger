@@ -1,4 +1,4 @@
-#Simple KeyLogger in Java
+# Simple KeyLogger in Java
 
 
 ```bash
@@ -9,4 +9,4 @@ $ git clone https://github.com/mar1nho/keylogger/
 $ cd keylogger
 ```
 
-## Just run the application and the KeyLog will be avaliable in the text file.
+Just run the application and the KeyLog will be avaliable in the text file.
